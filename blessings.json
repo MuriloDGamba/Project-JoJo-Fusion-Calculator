@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Holy",
+        "desc": "All cooldowns are reduced by 33%, it even includes the sub-fusion move too. Doesn't effect some moves like Guest Platinum Y."
+    },
+    {
+        "name": "Blessed",
+        "desc": "Doubles the proc rate of sub effects, also gives a 10% damage buff."
+    },
+    {
+        "name": "Sanctified",
+        "desc": "Caps all damage taken to 15% of your max health. Damage past this cap grants the user a 14 second damage buff which caps at 2x. it is calculated using this formula: [1+ damagePastcap/200]"
+    },
+    {
+        "name": "Divine",
+        "desc": "Chance to do a random \"Critical Hit\". [1/3] chance to proc and deals x2 more damage."
+    },
+    {
+        "name": "Saintly",
+        "desc": "Chance to inflict the Holy Flame. More damage you deal, bigger the chance to proc. Does 25 ticks of burn dmg which deal 2% of the damage that procced it.(Check below for formula)"
+    },
+    {
+        "name": "Heavenly",
+        "desc": "Chance to strike thunder at the target being damaged. Base damage is 8 with a 0.15 second hitstun. Chance multiplier is 3.333 (10/3) (Check below for formula). When you die, you will deal 25 base damage around everyone around you. Heavenly cannot proc subs, however the death effect can."
+    },
+    {
+        "name": "Angelic",
+        "desc": "Bypasses every \"block\", \"miss\" and reflection. Gives a [(0.08/your potency trait multiplier) + 1]x dmg buff to every attack. Most melee types are replaced with angelic melee, barrages get an additional 1.5x damage multiplier and a hit-stun with no knockback. Strong Punches become Angelic Punches which gives 1.1x damage. It will not replace melee types granted by subs."
+    },
+    {
+        "name": "Hallowed",
+        "desc": "Kills give 25% of your max hp back. Kills now spawn ghosts which grab the nearest opponent and deal 40% of the person you killed's max hp as damage."
+    },
+    {
+        "name": "Righteous",
+        "desc": "Increases damage up to 1.5x based on the missing health of the target. [y=(x/200)+1] [y = damage multiplier, x = % of hp your opponent lost]. Damage dealt to the user has a 1/6 chance to be nullified and reflected back for half its original damage."
+    },
+    {
+        "name": "Anointed",
+        "desc": "Outputted damage will always deal slight percentage damage to your opponent. The % damage is 0.175% of your opponent's MAX hp."
+    },
+    {
+        "name": "Transcendent",
+        "desc": "Buffed defense (1.2x). Transcendent grants resistance to most stuns, slows, grabs and knockback including hitstun."
+    },
+    {
+        "name": "Almighty",
+        "desc": "Increases defense based on the missing health of the player. Damage reduction scales with endurance. [y=(x/240)+1] [y = defense multiplier, x =amount of hp you lost]"
+    },
+    {
+        "name": "Exalted",
+        "desc": "Reduces damage taken by 33% (1.5x) if the attacker is around 3 meters away. The user gains a 30 stud radius projectile protection shield around themselves that nullifies most projectiles that try to enter it from the outside. This can only happen 10 times before the user needs to wait 15 seconds. The user will only recharge deflects after all deflects are used up. The user can still be attacked if they're spawned inside of this radius. This radius is invisible."
+    }
+]
