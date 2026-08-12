@@ -1,110 +1,20 @@
 [
     {
-        "abilityName": "",
+        "name": "None",
+        "fuseable": false,
         "lmb": {
-            "key": "",
-            "name": "",
-            "type": "",
+            "key": "LMB",
+            "name": "Punch",
             "cd": 0,
-            "baseDmg": 0,
-            "desc": ""
-        },
-        "q": {
-            "key": "",
-            "name": "",
-            "type": "",
-            "cd": 0,
-            "baseDmg": 0,
-            "desc": ""
-        },
-        "e": {
-            "key": "",
-            "name": "",
-            "type": "",
-            "cd": 0,
-            "baseDmg": 0,
-            "desc": ""
-        },
-        "r": {
-            "key": "",
-            "name": "",
-            "type": "",
-            "cd": 0,
-            "baseDmg": 0,
-            "desc": ""
-        },
-        "t": {
-            "key": "",
-            "name": "",
-            "type": "",
-            "cd": 0,
-            "baseDmg": 0,
-            "desc": ""
-        },
-        "y": {
-            "key": "",
-            "name": "",
-            "type": "",
-            "cd": 0,
-            "baseDmg": 0,
-            "desc": ""
-        },
-        "f": {
-            "key": "",
-            "name": "",
-            "type": "",
-            "cd": 0,
-            "baseDmg": 0,
-            "desc": ""
-        },
-        "h": {
-            "key": "",
-            "name": "",
-            "type": "",
-            "cd": 0,
-            "baseDmg": 0,
-            "desc": ""
+            "baseDmg": 2,
+            "desc": "The user will perform a basic punch, dealing low damage to anyone hit by it."
         },
         "z": {
-            "key": "",
-            "name": "",
-            "type": "",
-            "cd": 0,
+            "key": "Z",
+            "name": "Weak Power Jump",
+            "cd": 8,
             "baseDmg": 0,
-            "desc": ""
-        },
-        "ce": {
-            "key": "",
-            "name": "",
-            "type": "",
-            "cd": 0,
-            "baseDmg": 0,
-            "desc": ""
-        },
-        "cq": {
-            "key": "",
-            "name": "",
-            "type": "",
-            "cd": 0,
-            "baseDmg": 0,
-            "desc": ""
-        },
-        "cg": {
-            "key": "",
-            "name": "",
-            "type": "",
-            "cd": 0,
-            "baseDmg": 0,
-            "desc": ""
-        },
-        "cu": {
-            "key": "",
-            "name": "",
-            "type": "",
-            "cd": 0,
-            "baseDmg": 0,
-            "desc": ""
+            "desc": "The user performs a weak leap"
         }
     }
-    
 ]

@@ -142,13 +142,5 @@
         "resilience": 1.15,
         "dmgMult": 1,
         "defMult": "1.05"
-    },
-    {
-        "name": "None",
-        "potency": 1,
-        "speed": 1,
-        "resilience": 1,
-        "dmgMult": 1,
-        "defMult": 1
     }
 ]

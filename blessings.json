@@ -1,5 +1,9 @@
 [
     {
+        "name": "None",
+        "desc": "Doesn't have a blessing. Will be showed as blank in the space where it resides"
+    },
+    {
         "name": "Holy",
         "desc": "All cooldowns are reduced by 33%, it even includes the sub-fusion move too. Doesn't effect some moves like Guest Platinum Y."
     },
