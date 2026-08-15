@@ -3,144 +3,108 @@
         "name": "Godly",
         "potency": 1.35,
         "speed": 1.27,
-        "resilience": 1.35,
-        "dmgMult": "67/60",
-        "defMult": "67/60"
+        "resilience": 1.35
     },
     {
         "name": "Legendary",
         "potency": 1.25,
         "speed": 1.225,
-        "resilience": 1.25,
-        "dmgMult": "13/12",
-        "defMult": "13/12"
+        "resilience": 1.25
     },
     {
         "name": "Balanced",
         "potency": 1.125,
         "speed": 1.05,
-        "resilience": 1.05,
-        "dmgMult": "61/60",
-        "defMult": "61/60"
+        "resilience": 1.05
     },
     {
         "name": "Mighty",
         "potency": 1.5,
         "speed": 1.0,
-        "resilience": 1.0,
-        "dmgMult": "7/6",
-        "defMult": 1
+        "resilience": 1.0
     },
     {
         "name": "Powerhouse",
         "potency": 1.5,
         "speed": 1.1,
-        "resilience": 0.8,
-        "dmgMult": "7/6",
-        "defMult": "14/15"
+        "resilience": 0.8
     },
     {
         "name": "Elegant",
         "potency": 1.1,
         "speed": 1.35,
-        "resilience": 0.8,
-        "dmgMult": 1,
-        "defMult": "14/15"
+        "resilience": 0.8
     },
     {
         "name": "Hypersonic",
         "potency": 0.8,
         "speed": 1.35,
-        "resilience": 1,
-        "dmgMult": "14/15",
-        "defMult": 1
+        "resilience": 1
     },
     {
         "name": "Indestructible",
         "potency": 1,
         "speed": 1,
-        "resilience": 1.5,
-        "dmgMult": 1,
-        "defMult": "7/6"
+        "resilience": 1.5
     },
     {
         "name": "Humble",
         "potency": 0.8,
         "speed": 1.1,
-        "resilience": 1.5,
-        "dmgMult": "14/15",
-        "defMult": "7/6"
+        "resilience": 1.5
     },
     {
         "name": "Slugger",
         "potency": 1.25,
         "speed": 1.05,
-        "resilience": 1,
-        "dmgMult": "13/12",
-        "defMult": 1
+        "resilience": 1
     },
     {
         "name": "Tank",
         "potency": 1,
         "speed": 1.05,
-        "resilience": 1.25,
-        "dmgMult": 1,
-        "defMult": "13/12"
+        "resilience": 1.25
     },
     {
         "name": "Speedy",
         "potency": 1,
         "speed": 1.225,
-        "resilience": 0.9,
-        "dmgMult": 1,
-        "defMult": "29/30"
+        "resilience": 0.9
     },
     {
         "name": "Agile",
         "potency": 0.9,
         "speed": 1.225,
-        "resilience": 1,
-        "dmgMult": "29/30",
-        "defMult": 1
+        "resilience": 1
     },
     {
         "name": "Timid",
         "potency": 0.9,
         "speed": 1,
-        "resilience": 1.25,
-        "dmgMult": "29/30",
-        "defMult": "13/12"
+        "resilience": 1.25
     },
     {
         "name": "Brute",
         "potency": 1,
         "speed": 1.05,
-        "resilience": 1.25,
-        "dmgMult": 1,
-        "defMult": "13/12"
+        "resilience": 1.25
     },
     {
         "name": "Strong",
         "potency": 1.15,
         "speed": 1.1,
-        "resilience": 1,
-        "dmgMult": "1.05",
-        "defMult": 1
+        "resilience": 1
     },
     {
         "name": "Quick",
         "potency": 1,
         "speed": 1.175,
-        "resilience": 1,
-        "dmgMult": 1,
-        "defMult": 1
+        "resilience": 1
     },
     {
         "name": "Resilient",
         "potency": 1,
         "speed": 1.1,
-        "resilience": 1.15,
-        "dmgMult": 1,
-        "defMult": "1.05"
+        "resilience": 1.15
     }
 ]

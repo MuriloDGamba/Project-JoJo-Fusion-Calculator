@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,21 +9,29 @@
     <script type="module" src="index.js" defer></script>
     <title>PJJFC</title>
 </head>
-<body>
-    <select id="inputAbility">
-        <option value="" selected disabled hidden>Choose an ability</option>
-    </select>
-    <select id="inputSub">
-        <option value="" selected disabled hidden>Choose a sub-ability</option>
-        <option value="NT">None</option>
-    </select>
-    <select id="inputBlessing">
-        <option value="" selected disabled hidden>Choose a blessing</option>
-    </select>
-    <select id="inputTrait">
-        <option value="" selected disabled hidden>Choose a trait</option>
-    </select>
 
-    <input type="button" value="Create fusion" id="fuse">
+<body>
+    <section id="selection">
+        <select id="inputAbility">
+            <option value="" selected disabled hidden>Choose an ability</option>
+        </select>
+        <select id="inputSub">
+            <option value="" selected disabled hidden>Choose a sub-ability</option>
+            <option value="NT">None</option>
+        </select>
+        <select id="inputBlessing">
+            <option value="" selected disabled hidden>Choose a blessing</option>
+        </select>
+        <select id="inputTrait">
+            <option value="" selected disabled hidden>Choose a trait</option>
+        </select>
+
+        <input type="button" value="Create fusion" id="fuse">
+    </section>
+
+    <section id="rendered">
+
+    </section>
 </body>
+
 </html>
