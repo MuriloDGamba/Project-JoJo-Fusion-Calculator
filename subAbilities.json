@@ -1,19 +1,5 @@
 [
     {
-        "name": "None",
-        "lmb": {
-            "key": "LMB",
-            "name": "Punch",
-            "cd": 0,
-            "baseDmg": 2,
-            "desc": "The user will perform a basic punch, dealing low damage to anyone hit by it."
-        },
-        "z": {
-            "key": "Z",
-            "name": "Weak Power Jump",
-            "cd": 8,
-            "baseDmg": 0,
-            "desc": "The user performs a weak leap"
-        }
+        "name": "None"
     }
 ]

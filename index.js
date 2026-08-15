@@ -90,6 +90,7 @@ function renderFusion(ability, sub, blessing, trait) {
         </tr>
     `
 
+    rendered.innerHTML = ""
 
     rendered.append(chosenAbility, chosenSub, chosenBlessing, chosenTrait, chosenMoves)
 }
@@ -105,7 +106,7 @@ fuse.addEventListener('click', () => {
         showToast("You need to choose a blessing", "error")
     } else if (inputTrait.value === "") {
         showToast("You need to choose a trait", "error")
-    } else if (inputAbility.value == inputSub.value) {
+    } else if (inputAbility.value == inputSub.value && inputSub.value !== "None") {
         showToast("Sub-ability cannot be the same as the main ability", "error")
     } else {
         showToast("Fusion created sucessfully!", "success")
